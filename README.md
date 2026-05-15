@@ -14,10 +14,11 @@ Java, and deepening my Python for production-grade ML workflows.
 🤝 Open to collaborating on:
 Data pipelines, analytics tools, supply chain or operations-focused projects, and anything that involves making sense of complex datasets.
 
-📫 Reach me at: 
-www.linkedin.com/in/an-hsiu-hsueh-839a61290
+📫 
+- Reach me at: astridhsueh@gmail.com
+- My LinkedIn: www.linkedin.com/in/an-hsiu-hsueh-839a61290
 
-astridhsueh@gmail.com
+
 
 <!---
 astridhsueh/astridhsueh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
