@@ -14,7 +14,7 @@ Java, and deepening my Python for production-grade ML workflows.
 🤝 Open to collaborating on:
 Data pipelines, analytics tools, supply chain or operations-focused projects, and anything that involves making sense of complex datasets.
 
-📫 
+📫 About me
 - Reach me at: astridhsueh@gmail.com
 - My LinkedIn: www.linkedin.com/in/an-hsiu-hsueh-839a61290
 
