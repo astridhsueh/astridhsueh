@@ -1,15 +1,15 @@
 👋 Hi, I'm Astrid Hsueh
 
-I'm a data analyst with a background in supply chain operations and a passion for turning messy data into actionable insights. I bring hands-on experience across the full analytics stack — from data wrangling and predictive modeling to BI dashboards and ML pipelines.
+I'm a data analyst with a background in supply chain operations and a passion for turning messy data into actionable insights. I bring hands-on experience across the full analytics stack, from data wrangling and predictive modeling to BI dashboards and ML pipelines.
 
 🔍 What I work with:
 Python · R · SQL · Snowflake · Tableau · Power BI · Scikit-learn · Spark · PySpark
 
 📦 My background spans:
-Supply chain analytics, financial risk modeling, and recommendation systems — with a focus on building things that are both technically sound and business-relevant.
+Supply chain analytics, financial risk modeling, and recommendation systems. I focus on building things that are both technical and business-relevant.
 
 🌱 Currently expanding into:
-Java, and deepening my Python for production-grade ML workflows.
+Java, and deepening my Python for production ML workflows. Leveraging AI tools to speed up my productivity with data analysis.
 
 🤝 Open to collaborating on:
 Data pipelines, analytics tools, supply chain or operations-focused projects, and anything that involves making sense of complex datasets.
